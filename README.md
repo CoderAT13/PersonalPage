@@ -50,7 +50,7 @@ Web 2.0程序设计、Java与面向对象程序设计
 
 1. 无人机俯视摄像头4位数字二维码识别
 2. 基于SpringBoot、React框架的专用设备在线证书生成系统（独立）
-3. 基于OpenCV aruco垂直俯角多摄像头重合视野拼接（独立）
+3. [基于OpenCV aruco垂直俯角多摄像头重合视野拼接](学科/Fusioner/README.md)（独立）
 4. 多镜头的行人跟踪系统
 5. 简易人事管理系统（MySQL、SpringBoot、React）
 6. FISCO产业链交易系统（区块链课程作业）
