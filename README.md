@@ -10,6 +10,8 @@
 
 2019.2-2020.1 于中山大学数据科学与计算机学院 谢晓华副教授实验室进行科研实习
 
+2018.11-2019.9 于中山大学 成慧老师指导下 无人机队学习
+
 GPA：3.425（81/175）
 
 ### 1.2 活动经历
@@ -18,9 +20,11 @@ GPA：3.425（81/175）
 
 2018-2019 担任中山大学数计院团委生活部副部长，负责内建活动的筹划
 
-2017-2019 连续3年参加中山大学寒假招生宣传志愿者活动
+2018-2020 连续3年参加中山大学寒假招生宣传志愿者活动
 
 2018.6 参加中山大学数计院2018年暑假三下乡活动
+
+2017年担任班级生活委员 2019-2021年担任班级组织委员
 
 ### 擅长领域
 
@@ -59,3 +63,4 @@ GPA：3.425（81/175）
 8. [SYSU Helper](https://www.bilibili.com/video/BV1GK4y1s7Mu)（Android流水信息界面APP）（独立）
 9. 基于Xcode CoreML的上证指数预测模型
 10. 中山大学数据科学与计算机学院团委微信小程序开发
+11. [基于SAC强化学习算法的Walker2D研究](https://github.com/CoderAT13/BipedalWalkerHardcore-SAC)（[report](https://github.com/CoderAT13/BipedalWalkerHardcore-SAC/blob/main/data/BipedalWalkerTest.md)）
