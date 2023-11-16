@@ -91,11 +91,16 @@ Team member, Sun Yat-sen University, 2018.9-2019.7
 
 ## PROJECTS
 
+### Undergraduate
+
 1. [A highly Robust Quarter QR Code Recognization and Image Enhancement System on a drone](学科/国际空中机器人大赛（亚太赛区）获奖证书.pdf) （Team Work）
 2. Online Certifications Generation System for professional devices, based on SpringBoot and React（Independently）
 3. [View Fusion of Multiple Cameras based on OpenCV Aruco](学科/Fusioner/README.md)（Owner）
 4. [FISCO Block Chain Industrial Commerce System](https://github.com/CoderAT13/FISCO-FINAL)（区块链课程作业）（Owner）
 7. [Magic Mat](https://www.bilibili.com/video/BV1Uk4y1C7PW/)（iOS Image Processing APP）（Owner）
 8. [SYSU Helper](https://www.bilibili.com/video/BV1GK4y1s7Mu)（Android Feeds APP）（Owner）
-9. 基于Xcode CoreML的上证指数预测模型
-10. [Bipedal Robotics Reinforcement Learning Research](https://github.com/CoderAT13/BipedalWalkerHardcore-SAC)（[report](https://github.com/CoderAT13/BipedalWalkerHardcore-SAC/blob/main/data/BipedalWalkerTest.md)）
+9. [Bipedal Robotics Reinforcement Learning Research](https://github.com/CoderAT13/BipedalWalkerHardcore-SAC)（[report](https://github.com/CoderAT13/BipedalWalkerHardcore-SAC/blob/main/data/BipedalWalkerTest.md)）
+
+### Professional
+
+1. 
