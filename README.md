@@ -30,11 +30,16 @@ less than 0.005%
 
 ## RESEARCH EXPERIENCE
 
-### Bipedal Robotics Reinforcement Learning Research, 2020.9 - 2021.1
+### Bipedal Robotics Reinforcement Learning Research
+
+<div style="display: inline">
+<img height="200px" src="asset/image/robot_1.png"/> <img height="200px" src="asset/image/robot_3.png"/>
+</div>
+
 
 Team leader, Sun Yat-sen University, 2020.9 - 2021.1
 
-- Mentor: Liang Lin, Professor
+- Mentor: [Liang Lin](https://scholar.google.com/citations?user=Nav8m8gAAAAJ&hl=zh-CN&oi=ao), Professor
 - Research in bipedal robotics walking control method. Achieved an automatic solution for
 bipedal robot walking control by reinforcement learning.
 - In gym with PyTorch, used Walker2D to delve into factors of RL algorithm. Using SAC
@@ -45,6 +50,11 @@ walking in 3D circumstance.
       <img alt="Forks" src="https://img.shields.io/github/forks/CoderAT13/BipedalWalkerHardcore-SAC?style=flat-square&labelColor=343b41"/>
 
 ### View Fusion of Multiple Cameras based on OpenCV Aruco 
+
+<div style="display: inline">
+<img height="200px" src="asset/image/fusion_1.png"/> <img height="200px" src="asset/image/fusion_2.jpeg"/>
+</div>
+
 Team leader, Sun Yat-sen University, 2019.2-2020.1
 
 - Mentor: Xiaohua Xie, Associate Professor
@@ -55,6 +65,9 @@ wide-area passenger trajectory tracking.
 - Project: [https://github.com/CoderAT13/Fusioner](https://github.com/CoderAT13/Fusioner)
 
 ### AUVSI Foundation International Aerial Robotics Competition 
+
+<img height="200px" src="asset/image/ar_1.png"/>
+
 Team member, Sun Yat-sen University, 2018.9-2019.7
 
 - Mentor: Hui Cheng, Professor
@@ -63,6 +76,19 @@ Team member, Sun Yat-sen University, 2018.9-2019.7
 - Team won the second prize and was the first one to achieve the mission
 - Cert: [link](学科/国际空中机器人大赛（亚太赛区）获奖证书.pdf) 
 - Competion Websit: [link](http://www.aerialroboticscompetition.org/mission8.php)
+
+
+### Skin Disease Image Classification And Its Application
+
+<div style="display: inline">
+<img height="200px" src="asset/image/thesis_1.png"/> <img height="200px" src="asset/image/thesis_2.png"/>
+</div>
+
+First Author, Sun Yat-sen University, 2020.9-2021.5
+
+- Graduation thesis and project. Mentor: Prof. Fan Zhou. Advisor: Guifeng Zheng
+- Proposed a skin disease classification model based on migration learning deep convolutional neural network (single­ fully connected layer ResNet).
+- The accuracy of the solution was better than other experimental networks and the image classification training tool CreateML developed by Apple, and it was converted to a Core ML model through PyTorch to achieve an offline machine learning application on the iOS mobile terminal.
 
 
 ## OTHER ACTIVITIES
@@ -103,4 +129,8 @@ Team member, Sun Yat-sen University, 2018.9-2019.7
 
 ### Professional
 
-1. 
+1. Web publishing solution with integrated front-end and back-end. Manager/Developer can just upload a jar file to accomplish a lite but functional complex front-end & back-end publishment.
+2. Real time qualities monitor for a dynamic browser engine in hundreds of mobile apps.
+3. Browser engine performance optimization.
+4. AI assitance for developer service.
+5. Business authentication and dynamic component delivery solution for paas in mobile.
