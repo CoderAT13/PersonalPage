@@ -1,14 +1,19 @@
-# RESUME
 
-## Contact
+<div align="center">
+<img src="asset/image/avatur.jpg" width="100px" style="border-radius:50%">
+</div>
 
-> aterzhang21@gmail.com
+<h3 align="center"> aterzhang21@gmail.com </h3>
+
+<hr>
 
 ## EDUCATION
 
 ### Bachelor of Engineering, Sun Yat-sen University
 
 Software Engineering, Guangzhou, China, 2017.9 – 2021.6
+
+<hr>
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -27,6 +32,8 @@ analysis.
 V storage framework in X5, cutting down ANR rate in Mobile QQ for around 50% to
 less than 0.005%
 - Tencent Browseing Service Website: [x5.tencent.com](https://x5.tencent.com)
+
+<hr>
 
 ## RESEARCH EXPERIENCE
 
@@ -90,6 +97,7 @@ First Author, Sun Yat-sen University, 2020.9-2021.5
 - Proposed a skin disease classification model based on migration learning deep convolutional neural network (single­ fully connected layer ResNet).
 - The accuracy of the solution was better than other experimental networks and the image classification training tool CreateML developed by Apple, and it was converted to a Core ML model through PyTorch to achieve an offline machine learning application on the iOS mobile terminal.
 
+<hr>
 
 ## OTHER ACTIVITIES
 
@@ -98,10 +106,14 @@ First Author, Sun Yat-sen University, 2020.9-2021.5
 - 2018.6 Volunteer of technical social service for countryside.
 - 2022.3 Volunteer of COVID-19 anti-epidemic social service.
 
+<hr>
+
 ## PROFESSIONAL SKILLS
 
 - Area: Computer Vision, Digital Image Processing, Android, iOS, Web, Browser Engine, Deep Learning, Reinforcement Learning
 - Language: c/c++, java, python, golang, shell, javascript
+
+<hr>
 
 ## HONORS
 
@@ -114,6 +126,7 @@ First Author, Sun Yat-sen University, 2020.9-2021.5
 5. 2019 International Aerial Robot Competition (IARC) Second Prize
 6. FISCO Blockchain Technology Development Certification Certificate
 
+<hr>
 
 ## PROJECTS
 
