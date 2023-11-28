@@ -117,15 +117,20 @@ First Author, Sun Yat-sen University, 2020.9-2021.5
 
 ## HONORS
 
-### ACADEMIC HONORS & AWARDS
+### HONORS & AWARDS
 
-1. 2017-2018 Sun Yat-sen University Outstanding Student Scholarship Third Prize
-2. 2018-2019 Sun Yat-sen University Outstanding Student Scholarship Third Prize
-3. 2019-2020 Sun Yat-sen University Outstanding Student Scholarship Third Prize
+1. 2017-2018 Sun Yat-sen University Outstanding Student Scholarship 
+2. 2018-2019 Sun Yat-sen University Outstanding Student Scholarship 
+3. 2019-2020 Sun Yat-sen University Outstanding Student Scholarship 
 4. 2019 Provincial first prize in the National Mathematical Modeling Competition, China
 5. 2019 International Aerial Robot Competition (IARC) Second Prize
 6. FISCO Blockchain Technology Development Certification Certificate
+7. 2022 H1 Tencent Outstanding Contributor
 
+
+<img src="asset/image/oc.jpg" width="60px" style="border-radius:50%">
+<img src="asset/image/ar_2.png" width="60px" style="border-radius:50%">
+<img src="asset/image/fisco.png" width="60px" style="border-radius:50%">
 <hr>
 
 ## PROJECTS
