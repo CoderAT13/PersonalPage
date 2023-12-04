@@ -89,6 +89,7 @@ Team member, Sun Yat-sen University, 2018.9-2019.7
 
 <div style="display: inline">
 <img height="200px" src="asset/image/thesis_1.png"/> <img height="200px" src="asset/image/thesis_2.png"/>
+<img height="200px" src="asset/image/skin.png"/>
 </div>
 
 First Author, Sun Yat-sen University, 2020.9-2021.5
